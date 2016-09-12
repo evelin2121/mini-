@@ -1,0 +1,78 @@
+body {background-image: url(../imagen/fondo.jpg);
+       }
+
+li { display: inline-block;
+     color: #666862;
+     padding-left: 50px;
+     padding-top: 40px;
+     font-size: 2em;} 
+h1 { 
+	text-align: center;
+    color:#666862;
+    font-size: 3em;
+    padding: 20px;}
+
+.uno{width: 50px;
+     height: 0px;
+     }
+
+.fondo-uno{ 
+	background-image: url(../imagen/universo.jpg);
+	padding: 120px;
+    border:1px solid #666862;}
+.espacio { 
+	background-image: url(../imagen/grunge_wall.png);
+	padding: 90px;
+    border:1px solid #666862;
+    text-align: center;
+    color:#675568;}    
+.fondo-dos{ 
+	background-image: url(../imagen/extraterrestres.jpg);
+	padding: 80px;
+    border:1px solid #666862;}
+h2 { 
+	text-align: center;
+    color: #666862;
+    font-size: 3em;
+    padding: 20px;}
+.espacio-dos { 
+	background-image: url(../imagen/grunge_wall.png);
+	padding: 50px;
+    border:1px solid #666862;
+    text-align: center;
+    color:#675568;} 
+
+h3 {font-size: 25px;} 
+
+.parrafo-uno { padding: 50px;} 
+
+h4 { padding: 30px;
+      color:#453946;
+      font-size: 3em; }
+
+.espacio-tres { 
+	background-image: url(../imagen/grunge_wall.png);
+	padding: 50px;
+    border:1px solid #666862;
+    text-align: center;
+    color:#675568;} 
+.foto-uno{ padding: 30px;}              	
+.foto-dos {padding: 30px; }
+
+h6 {font-size: 3em;}
+
+.espacio-cuatro { 
+	background-image: url(../imagen/grunge_wall.png);
+	padding: 50px;
+    border:1px solid #666862;
+    text-align: center;
+    color:#675568;} 
+
+.fin { background-color: #3C3146;
+       color:#C7A4EB;
+       padding: 30px;}
+.inicio { 
+	background-color: #3C3146;
+    padding-top:5px; }           
+
+
